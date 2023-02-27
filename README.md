@@ -1,2 +1,5 @@
 # Anomaly-Detection-On-Pressure-Values
-An automated anomaly detection system for a system producing materials at a certain pressure threshold. 
+<li>
+An automated anomaly detection system for the control system of a separator tank. 
+<li>
+It detects abnormalities in the pressure values of the separator tank. 
